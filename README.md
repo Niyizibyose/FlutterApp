@@ -2,11 +2,7 @@
 
 Power House Studio App with animations, beautiful UI and network call.
 
-## YouTube Tutorials
-### Hindi
-[Build a beautiful Power House Studio App](https://youtu.be/0K3Zq3XqdAo)
-### English
-[Build a beautiful Power House Studio App](https://youtu.be/yeXJqZCiwTQ)
+A multimedia company based in Kigali, Rwanda
 
 ## Screenshots
 
