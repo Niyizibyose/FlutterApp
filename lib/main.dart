@@ -64,7 +64,7 @@ class HomePageState extends State<HomePage> {
                                           Power House Studio: poke,
                                         )));
                           },
-                          child: Hero(
+                          child: Videos(
                             tag: poke.img,
                             child: Card(
                               child: Column(
